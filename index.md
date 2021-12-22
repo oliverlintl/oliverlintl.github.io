@@ -41,7 +41,7 @@ sections:
         text: >-
           Major: Business Economics 
           GPA: 3.83
-      - image: assets/img/portfolio/thumbnails/ucla.jpg
+      - image: assets/img/portfolio/thumbnails/lmu.jpg
         title: >+
           September 2021- present
           LMU
