@@ -18,29 +18,6 @@ sections:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
-        
- - type: timeline.html
-    section_id: timeline
-    title: Education Timeline
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          July 2017- May 2019
-          Riverside City College
-        text: >-
-          Major: Business Administration
-          GPA: 4.00
-          Accomplishment: Dean's list 3 consecutive semester
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          September 2019 - June 2021
-          UCLA
-        text: >-
-          Major: Business Economics
-          GPA: 3.83
-          Accomplishment: cum laude
 
   - type: services.html
     section_id: services
@@ -137,6 +114,31 @@ sections:
         text: PR.
         image: assets/img/members/person7.jpg
         url: '#'
+
+        
+ - type: timeline.html
+    section_id: timeline
+    title: Education Timeline
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          July 2017- May 2019
+          Riverside City College
+        text: >-
+          Major: Business Administration
+          GPA: 4.00
+          Accomplishment: Dean's list 3 consecutive semester
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          September 2019 - June 2021
+          UCLA
+        text: >-
+          Major: Business Economics
+          GPA: 3.83
+          Accomplishment: cum laude
+
 
   - type: contact.html
     section_id: contacts
