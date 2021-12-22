@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Oliver's personal website
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+   Welcome to my personal website where you can learn something about me
   action: # action button is optional
     label: Find Out More
     url: '#about'
