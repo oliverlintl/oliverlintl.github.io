@@ -27,13 +27,13 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/portfolio/thumbnails/rcc.jpg
         title: >+
           July 2017- May 2019
           Riverside City College
         text: >-
           Major: Business Administration GPA: 4.00
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/portfolio/thumbnails/ucla.jpg
         title: >+
           September 2019- June 2021
           UCLA
