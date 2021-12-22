@@ -29,7 +29,7 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
+          July 2017- May 2019
           **Humble Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
