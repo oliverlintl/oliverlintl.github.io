@@ -32,13 +32,13 @@ sections:
           July 2017- May 2019
           Riverside City College
         text: >-
-          Major: Business Administration
+          Major: Business Administration GPA: 4.00
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           September 2019- June 2021
           UCLA
         text: >-
-          We started to gather like minded people and started our stategies
+          Major: Business Economics GPA: 3.83
 
   - type: services.html
     section_id: services
