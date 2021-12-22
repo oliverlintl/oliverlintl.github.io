@@ -6,7 +6,7 @@ header:
    Welcome to my personal website where you can learn something about me
   action: # action button is optional
     label: Find Out More
-    url: '#services'
+    url: '#about'
 
 
 sections:
