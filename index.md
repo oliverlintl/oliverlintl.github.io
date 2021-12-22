@@ -125,19 +125,15 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           July 2017- May 2019
-          Riverside City College
+          **Riverside City College**
         text: >-
-          Major: Business Administration
-          GPA: 4.00
-          Accomplishment: Dean's list 3 consecutive semester
+          Major: Business Administration GPA: 4.00 Accomplishment: Dean's list 3 consecutive semester
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           September 2019 - June 2021
-          UCLA
+          **UCLA**
         text: >-
-          Major: Business Economics
-          GPA: 3.83
-          Accomplishment: cum laude
+          Major: Business Economics GPA: 3.83 Accomplishment: cum laude
 
 
   - type: contact.html
