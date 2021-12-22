@@ -8,6 +8,8 @@ header:
     label: Find Out More
     url: '#about'
 
+
+
 sections:
   - type: call-to-action.html
     section_id: about
@@ -18,6 +20,26 @@ sections:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
+
+  - type: timeline.html
+    section_id: timeline
+    title: Major Achievements!
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          2017-2018
+          **Humble Beginnings**
+        text: >-
+          We begun with small group of people willing to work hard and make our
+          teaching skills worth , in front of all others!
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          November 2019
+          An Coaching started
+        text: >-
+          We started to gather like minded people and started our stategies
 
   - type: services.html
     section_id: services
@@ -115,26 +137,6 @@ sections:
         image: assets/img/members/person7.jpg
         url: '#'
 
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
