@@ -43,11 +43,11 @@ sections:
           GPA: 3.83
       - image: assets/img/portfolio/thumbnails/ucla.jpg
         title: >+
-          September 2019- June 2021
-          UCLA
+          September 2021- present
+          LMU
         text: >-
-          Major: Business Economics 
-          GPA: 3.83          
+          Major: Business Analytics 
+          GPA: 4.00
 
   - type: services.html
     section_id: services
