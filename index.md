@@ -30,14 +30,13 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           July 2017- May 2019
-          **Humble Beginnings**
+          Riverside City College
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          Major: Business Administration
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          September 2019- June 2021
+          UCLA
         text: >-
           We started to gather like minded people and started our stategies
 
