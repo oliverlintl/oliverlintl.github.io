@@ -115,27 +115,26 @@ sections:
         image: assets/img/members/person7.jpg
         url: '#'
 
-        
- - type: timeline.html
+  - type: timeline.html
     section_id: timeline
-    title: Education Timeline
+    title: Major Achievements!
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          July 2017- May 2019
-          **Riverside City College**
+          2017-2018
+          **Humble Beginnings**
         text: >-
-          Major: Business Administration GPA: 4.00 Accomplishment: Dean's list 3 consecutive semester
+          We begun with small group of people willing to work hard and make our
+          teaching skills worth , in front of all others!
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          September 2019 - June 2021
-          **UCLA**
+          November 2019
+          An Coaching started
         text: >-
-          Major: Business Economics GPA: 3.83 Accomplishment: cum laude
-
-
+          We started to gather like minded people and started our stategies
+          and future plans to them. As a result , interested people joined us!
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
