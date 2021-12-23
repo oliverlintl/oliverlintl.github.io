@@ -21,6 +21,7 @@ sections:
   - type: timeline.html
     section_id: timeline
     title: Education Timeline
+    permalink: /timeline
     background_style: bg-dark text-primary
     last_image: assets/img/portfolio/thumbnails/blank.jpg
     actions:
