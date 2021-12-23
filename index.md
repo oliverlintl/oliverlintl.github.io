@@ -122,11 +122,11 @@ sections:
         text: I have been practicing since middle school
         image: assets/img/members/archery.jpg
         url: '#'
-       - title: Culinary
+      - title: Culinary
         text: cooking relaxes me
         image: assets/img/members/cook.jpg
         url: '#'
-       - title: Gaming
+      - title: Gaming
         text: video game is the ultimate channel of story telling
         image: assets/img/members/game.jpg
         url: '#'
