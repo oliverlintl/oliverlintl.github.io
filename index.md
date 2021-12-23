@@ -51,24 +51,14 @@ sections:
     #background_style: bg-info
     title: Skills
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Microsoft Office Suite
+        text: Excel, PowerPoint, etc. 
+      - title: Data Analysis
+        text: R, Python, SQL
+      - title: Data Visualization
+        text: Tableau, ArcGIS
+      - title: Video Editting
+        text: Da Vinci Resolve
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
