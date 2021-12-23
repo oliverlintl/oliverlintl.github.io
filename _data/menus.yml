@@ -3,11 +3,9 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: About
-  url: "#about"
 - title: Education
   url: /#education
-- title: Work Experience
+- title: Experience
   url: /#work experience
 - title: Projects
   url: /#projects
