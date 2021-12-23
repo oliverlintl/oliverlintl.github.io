@@ -48,7 +48,7 @@ sections:
           GPA: 4.00
 
   - type: services.html
-    section_id: services
+    section_id: skills
     #background_style: bg-info
     title: My Skills
     services:
@@ -62,7 +62,7 @@ sections:
         text: Da Vinci Resolve
 
   - type: members.html
-    section_id: members
+    section_id: hobbies
     title: My Hobbies
     background_style: bg-info text-white
     members:
