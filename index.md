@@ -25,7 +25,6 @@ sections:
     section_id: timeline
     title: Education Timeline
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/rcc.jpg
         title: >+
