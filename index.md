@@ -95,7 +95,7 @@ sections:
     section_id: gallery
     title: Go to my gallery
     actions:
-      - title: Go to my gallery
+      - title: Go!
         url: https://oliverlintl.github.io/gallery
         class: btn-light
 
