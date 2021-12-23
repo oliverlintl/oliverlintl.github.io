@@ -4,7 +4,7 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Education
-  url: /#education
+  url: /timeline
 - title: Experience
   url: /#work experience
 - title: Projects
