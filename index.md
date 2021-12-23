@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: A Quick Summary about Me
-    text: I came to the US from China when I was 18 seeking a higher education. I have graduated from UCLA and currently pursuing a master degree in Business Analytics. I am a person with a wide range of interests and hobbies. And I have had a variety of experience and I worked on various projects. You can see some in more detail in this website. 
+    text: I came to the US from China when I was 18 seeking a higher education. I have graduated from UCLA and currently pursuing a master degree in Business Analytics at LMU. I am a person with a wide range of interests and hobbies. And I have had a variety of experience and I worked on various projects. You can see some in more detail in this website. 
 
 
   - type: timeline.html
