@@ -14,8 +14,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: A Quick Summary about Me
+    text: I came to the US from China when I was 18 seeking a higher education. I have graduated from UCLA and currently pursuing a master degree in Business Analytics. I am a person with a wide range of interests and hobbies. And I have had a variety of experience and I worked on various projects. You can see some in more detail in this website. 
 
 
   - type: timeline.html
