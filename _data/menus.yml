@@ -6,10 +6,10 @@ header:
 - title: Education
   url: 'https://oliverlintl.github.io/#timeline'
 - title: Skills
-  url: 'https://oliverlintl.github.io/#timeline'
+  url: 'https://oliverlintl.github.io/#skills'
 - title: Hobbies
-  url: 'https://oliverlintl.github.io/#timeline'
-- title: Projects
-  url: 'https://oliverlintl.github.io/#timeline'
+  url: 'https://oliverlintl.github.io/#hobbies'
+- title: Porfolio
+  url: 'https://oliverlintl.github.io/#portfolio'
 - title: Contact
   url: /contact
