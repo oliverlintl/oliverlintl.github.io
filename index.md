@@ -116,7 +116,7 @@ sections:
         url: '#'
       - title: Music
         text: Drum, guitar, piano, flute
-        image: assets/img/members/instrument.jpg
+        image: assets/img/members/guitar.jpg
         url: '#'
       - title: Archery
         text: I have been practicing since middle school
