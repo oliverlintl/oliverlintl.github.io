@@ -4,7 +4,7 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Education
-  url: '#timeline'
+  url: 'https://oliverlintl.github.io/#timeline'
 - title: Experience
   url: /#work experience
 - title: Projects
