@@ -91,6 +91,14 @@ sections:
         image: assets/img/members/game.jpg
         url: '#'
 
+  - type: aside.html
+    section_id: gallery
+    title: Go to my gallery
+    actions:
+      - title: Go to my gallery
+        url: https://oliverlintl.github.io/gallery
+        class: btn-light
+
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
@@ -124,14 +132,6 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
-
 
   - type: contact.html
     section_id: contacts
@@ -140,17 +140,19 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: oliverlintl@icloud.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
       url: '#'
     - title: Facebook
       icon: fa-facebook
+      icon_type: fab
+      url: '#'
+    - title: LinkedIn
+      icon: fa-linkedin
       icon_type: fab
       url: '#'
 
