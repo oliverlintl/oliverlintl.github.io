@@ -108,6 +108,7 @@ sections:
     members:
       - title: Christina M. Aponte
         text: Singer and Songwriter
+        image: assets/img/members/person1.jpg
         url: '#'
       - title: Gary D. Stevens
         text: Bass guitar.
@@ -121,14 +122,7 @@ sections:
         text: Drums, percussion.
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+
 
   - type: contact.html
     section_id: contacts
