@@ -49,11 +49,10 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Skills
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
         url: https://startbootstrap.com/
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
