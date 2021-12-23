@@ -106,21 +106,21 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Traveling
+        text: 4 road trips, 8 states, 9 National Parks
+        image: assets/img/members/travel.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: Photos and Videos
+        text: Taking photos and making videos are the best ways to immortalize a moment
+        image: assets/img/members/photo.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Music
+        text: Drum, guitar, piano, flute
+        image: assets/img/members/instrument.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: Archery
+        text: I have been practicing since middle school
+        image: assets/img/members/archery.jpg
         url: '#'
 
 
