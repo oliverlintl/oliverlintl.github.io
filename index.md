@@ -49,7 +49,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Skills
+    title: My Skills
     services:
       - title: Microsoft Office Suite
         text: Excel, PowerPoint, etc. 
@@ -103,7 +103,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: My Hobbies
     background_style: bg-info text-white
     members:
       - title: Traveling
@@ -111,7 +111,7 @@ sections:
         image: assets/img/members/travel.jpg
         url: '#'
       - title: Photos and Videos
-        text: Taking photos and making videos are the best ways to immortalize a moment
+        text: photos and videos are the best ways to immortalize a moment
         image: assets/img/members/photo.jpg
         url: '#'
       - title: Music
@@ -122,7 +122,14 @@ sections:
         text: I have been practicing since middle school
         image: assets/img/members/archery.jpg
         url: '#'
-
+       - title: Culinary
+        text: cooking relaxes me
+        image: assets/img/members/cook.jpg
+        url: '#'
+       - title: Gaming
+        text: video game is the ultimate channel of story telling
+        image: assets/img/members/game.jpg
+        url: '#'
 
   - type: contact.html
     section_id: contacts
