@@ -34,17 +34,15 @@ sections:
       - image: assets/img/portfolio/thumbnails/ucla.jpg
         title: >+
           September 2019- June 2021
-          UCLA
+          UCLA (Undergrad)
         text: >-
-          Undergrad
           Major: Business Economics 
           GPA: 3.83
       - image: assets/img/portfolio/thumbnails/lmu.jpg
         title: >+
           September 2021- present
-          LMU
+          LMU (Graduate)
         text: >-
-          Graduate
           Major: Business Analytics 
           GPA: 4.00
 
