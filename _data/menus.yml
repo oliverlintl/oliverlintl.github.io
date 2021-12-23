@@ -5,11 +5,11 @@
 header:
 - title: Education
   url: 'https://oliverlintl.github.io/#timeline'
-- title: Experience
-  url: /#work experience
-- title: Projects
-  url: /#projects
+- title: Skills
+  url: 'https://oliverlintl.github.io/#timeline'
 - title: Hobbies
-  url: /#hobbies
+  url: 'https://oliverlintl.github.io/#timeline'
+- title: Projects
+  url: 'https://oliverlintl.github.io/#timeline'
 - title: Contact
   url: /contact
