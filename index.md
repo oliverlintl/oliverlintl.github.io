@@ -67,12 +67,12 @@ sections:
     #background_style: bg-dark
     projects:
       - title: LA Real Estate Analysis Project
-        text: This is a analysis on a sample of properties LA real estate using Excel and Tablaeu
+        text: This is a analysis on LA real estate using Excel and Tablaeu
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: realestate.jpg
-        url: '#'
+        url: https://oliverlintl.github.io/gallery/
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
