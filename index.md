@@ -142,7 +142,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: oliverlintl@icloud.com
+      url: mailto:oliverlintl@icloud.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
