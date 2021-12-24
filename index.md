@@ -137,23 +137,19 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Feel free to email me or direct message me on LinkedIn or Instagram!
     actions:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:oliverlintl@icloud.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
     - title: LinkedIn
       icon: fa-linkedin
       icon_type: fab
-      url: '#'
+      url: https://www.linkedin.com/in/oliver-tingli-lin/
+    - title: Instagram
+      icon: fa-instagram
+      icon_type: fab
+      url: https://www.instagram.com/oliverlin_tl/
+
 
 ---
