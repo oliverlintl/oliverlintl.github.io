@@ -93,7 +93,7 @@ sections:
 
   - type: aside.html
     section_id: gallery
-    title: Go to my gallery
+    title: Check out my gallery where I post some of my photos and videos
     actions:
       - title: Go!
         url: https://oliverlintl.github.io/gallery
