@@ -66,12 +66,12 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: LA Real Estate Analysis Project
+        text: This is a analysis on a sample of properties LA real estate using Excel and Tablaeu
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: realestate.jpg
         url: '#'
       - title: Project 2
         text: This is a very short project description.
