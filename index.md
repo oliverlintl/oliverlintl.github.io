@@ -66,7 +66,7 @@ sections:
     title: Check out my portfolio where I keep record of the projects that I have worked on
     actions:
       - title: Go!
-        url: https://oliverlintl.github.io/portfolio/
+        url: https://oliverlintl.github.io/portfolio
         class: btn-light
 
   - type: members.html
