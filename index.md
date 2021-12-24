@@ -63,7 +63,7 @@ sections:
 
   - type: aside.html
     section_id: portfolio
-    title: Check out my porfolio where I keep record of the projects that I have worked on
+    title: Check out my portfolio where I keep record of the projects that I have worked on
     actions:
       - title: Go!
         url: https://oliverlintl.github.io/gallery
