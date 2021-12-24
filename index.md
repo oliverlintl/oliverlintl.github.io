@@ -62,7 +62,7 @@ sections:
         text: Da Vinci Resolve
 
   - type: aside.html
-    section_id: portfolio
+    section_id: projects
     title: Check out my portfolio where I keep record of the projects that I have worked on
     actions:
       - title: Go!
