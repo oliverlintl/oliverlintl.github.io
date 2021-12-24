@@ -61,40 +61,13 @@ sections:
       - title: Video Editting
         text: Da Vinci Resolve
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: LA Real Estate Analysis Project
-        text: This is a analysis on LA real estate using Excel and Tablaeu
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: realestate.jpg
-        url: https://oliverlintl.github.io/gallery/
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-        
+  - type: aside.html
+    section_id: portfolio
+    title: Check out my porfolio where I keep record of the projects that I have worked on
+    actions:
+      - title: Go!
+        url: https://oliverlintl.github.io/gallery
+        class: btn-light
 
   - type: members.html
     section_id: hobbies
