@@ -124,6 +124,9 @@ sections:
       icon: fa-instagram
       icon_type: fab
       url: https://www.instagram.com/oliverlin_tl/
-
+    - title: Github
+      icon: fa-github
+      icon_type: fab
+      url: https://github.com/oliverlintl
 
 ---
